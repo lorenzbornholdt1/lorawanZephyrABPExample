@@ -1,6 +1,6 @@
 #ifndef H_LORAWAN_CONST
 #define H_LORAWAN_CONST
-/* Customize based on network configuration */
+
 #define LORAWAN_DEV_EUI                                \
     {                                                  \
          0x00, 0x1C, 0x50, 0xCC, 0x86, 0xEB, 0x7A, 0x17 \
